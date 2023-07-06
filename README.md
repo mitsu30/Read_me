@@ -11,7 +11,7 @@ Githubリポジトリ
 - フロントエンド 
 https://github.com/mitsu30/Read_me_frontend
 - バックエンド
-https://github.com/mitsu30/Read_me_backend　　
+https://github.com/mitsu30/Read_me_backend
 
 ## メインのターゲットユーザー
 RUNTEQコミュニティに属する方々です。
