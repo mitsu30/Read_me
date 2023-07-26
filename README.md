@@ -44,7 +44,12 @@ RUNTEQの受講生がコミュニティ参加の際に以下のような心理�
 | プレビュー | 作成結果出力 |
 |----------|-------|
 |[![Image from Gyazo](https://i.gyazo.com/4ef70e01b842842492fd1b5c53619ad5.gif)](https://gyazo.com/4ef70e01b842842492fd1b5c53619ad5)|[![Image from Gyazo](https://i.gyazo.com/5645a8cb7d0199814a3760a5a5df9ced.gif)](https://gyazo.com/5645a8cb7d0199814a3760a5a5df9ced)|
-|プレビューで入力した内容を確認できます|つくるでプロフィール帳を作成します|
+|プレビューで入力した内容をすぐに確認できます|つくるでプロフィール帳を作成します|
+
+| Twitterシェア | ログイン |
+|----------|-------|
+|[![Image from Gyazo](https://i.gyazo.com/7df942c2b26b2ed5121b2a5a27c900a6.png)](https://gyazo.com/7df942c2b26b2ed5121b2a5a27c900a6)|[![Image from Gyazo](https://i.gyazo.com/2ce8d2c182627683b66145eab8b74613.gif)](https://gyazo.com/2ce8d2c182627683b66145eab8b74613)|
+|Twitterでシェア！|クリックするだけで自動でログイン|
 
 
 ## 各ユーザーの権限
