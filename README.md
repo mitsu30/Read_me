@@ -51,6 +51,21 @@ RUNTEQの受講生がコミュニティ参加の際に以下のような心理�
 |[![Image from Gyazo](https://i.gyazo.com/7df942c2b26b2ed5121b2a5a27c900a6.png)](https://gyazo.com/7df942c2b26b2ed5121b2a5a27c900a6)|[![Image from Gyazo](https://i.gyazo.com/2ce8d2c182627683b66145eab8b74613.gif)](https://gyazo.com/2ce8d2c182627683b66145eab8b74613)|
 |Twitterでシェア！|クリックするだけで自動でログイン|
 
+| スクールユーザー一覧ページ | スクールユーザー詳細ページ |
+|----------|-------|
+|[![Image from Gyazo](https://i.gyazo.com/6ffb2f486e3e915958411d9553df2448.png)](https://gyazo.com/6ffb2f486e3e915958411d9553df2448)|[![Image from Gyazo](https://i.gyazo.com/c899b12bb6f2503fbd5a309d07194d6c.jpg)](https://gyazo.com/c899b12bb6f2503fbd5a309d07194d6c)|
+|||
+
+| プロフィール帳公開範囲の設定 | ログインユーザー用プロフィール帳 |
+|----------|-------|
+|[![Image from Gyazo](https://i.gyazo.com/608f2c2c963c28b0f8e290aa31f22745.jpg)](https://gyazo.com/608f2c2c963c28b0f8e290aa31f22745)|[![Image from Gyazo](https://i.gyazo.com/86e6298a4a411a55034c38ccaced3e78.jpg)](https://gyazo.com/86e6298a4a411a55034c38ccaced3e78)|
+||スクールユーザーのみ「すくーる」を使用可能|
+
+| 動的OGPの設定 | |
+|----------|-------|
+|[![Image from Gyazo](https://i.gyazo.com/1efddf9af4ce274bfe5f72ace49a0850.png)](https://gyazo.com/1efddf9af4ce274bfe5f72ace49a0850)||
+| Twitterシェアする際にデフォルト画像を設定できる||
+
 
 ## 各ユーザーの権限
 ⬜️ 一般ユーザー
