@@ -99,8 +99,7 @@ RUNTEQの受講生がコミュニティ参加の際に以下のような心理�
 - GitHub API
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/04edb3d8e1ca5c90e09f6c6061dca4d4.png)](https://gyazo.com/04edb3d8e1ca5c90e09f6c6061dca4d4)
-
+[![Image from Gyazo](https://i.gyazo.com/8ef80deec03638284f0202e91e619d15.png)](https://gyazo.com/8ef80deec03638284f0202e91e619d15)
 
 
 
