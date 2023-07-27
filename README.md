@@ -134,7 +134,6 @@ RUNTEQにコミュニティがあることはとても大きいと感じてい�
 - GitHub API
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/96f9bdb717093c4e23eac0d17c67a4e7.png)](https://gyazo.com/96f9bdb717093c4e23eac0d17c67a4e7)
-
+[![Image from Gyazo](https://i.gyazo.com/0d595e693acdb999aca6d5030648b7e9.png)](https://gyazo.com/0d595e693acdb999aca6d5030648b7e9)
 
 
