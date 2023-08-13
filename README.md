@@ -128,7 +128,7 @@ RUNTEQにコミュニティがあることはとても大きいと感じてい�
 ### インフラ
 - vercel
 - Fly.io
-- S3
+- Amazon S3
 
 ### その他
 - Firebase Authentication
