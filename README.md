@@ -6,8 +6,8 @@ RUNTEQコミュニティに所属する人々のプロフィール情報を、�
 ユーザーのプロフィールを見た人にユーザーについて知ってもらう機会を提供します。
 20年前に女子の間で流行したプロフィール帳をイメージしたアプリケーションになります。
 
-サービスURL: https://readmeprofile.com/
-紹介記事: https://qiita.com/mitsu30/items/9d30da75941e328b541f
+- サービスURL: https://readmeprofile.com/
+- 紹介記事: https://qiita.com/mitsu30/items/9d30da75941e328b541f
 
 Githubリポジトリ
 
